@@ -7,7 +7,7 @@
 - Joycelyn Eugenia Kurniadi <b> Hipster </b>
 - Ahmad ‘athoya Dhiyaulhaq <b> Hustler </b>
 
-### Sub modules: 
+### Sub modules repository : 
 - Backend Api : https://github.com/christoperBar/WeLearnAPI.git
 - Frontend Web app : https://github.com/alizaenazet/welearn-nextjs.git
 

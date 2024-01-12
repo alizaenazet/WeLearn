@@ -9,5 +9,11 @@
 
 
 ### Application Preview:
-![Tangkapan Layar 2024-01-12 pada 22 59 13](https://github.com/alizaenazet/WeLearn/assets/96227680/e8831b0c-e5aa-4531-a904-2ccea4804b8e)
-![Tangkapan Layar 2024-01-12 pada 23 00 38](https://github.com/alizaenazet/WeLearn/assets/96227680/a25cd82c-6d8f-4b42-bb3f-b6bf836604ef)
+| Picture | Picture | Video |
+| --- | --- | --- |
+| ![Tangkapan Layar 2024-01-12 pada 22 59 13](https://github.com/alizaenazet/WeLearn/assets/96227680/e8831b0c-e5aa-4531-a904-2ccea4804b8e) | ![Tangkapan Layar 2024-01-12 pada 23 00 38](https://github.com/alizaenazet/WeLearn/assets/96227680/a25cd82c-6d8f-4b42-bb3f-b6bf836604ef) | ![Screen Recording 2024-01-12 at 23 01 10](https://github.com/alizaenazet/WeLearn/assets/96227680/615ed486-27f0-4527-bc78-c8c0fa52bef1) |
+
+
+
+
+

@@ -9,7 +9,7 @@
 
 ### Sub modules repository : 
 - Backend Api : https://github.com/christoperBar/WeLearnAPI.git
-- Frontend Web app : https://github.com/alizaenazet/welearn-nextjs.git
+- Frontend Web app : [https://github.com/alizaenazet/welearn-nextjs.git](https://github.com/alizaenazet/welearn-nextjs/tree/development)
 
 ### Application Preview:
 | Picture | Picture | Video |

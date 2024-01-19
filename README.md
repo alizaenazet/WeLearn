@@ -8,8 +8,8 @@ fyi: tim mengikuti ajang pada saat moment UAS, pengerjaan terus berjalan dapat d
 - Ahmad ‘athoya Dhiyaulhaq <b> Hustler </b>
 
 ### Sub modules repository : 
-- Backend Api : [https://github.com/christoperBar/WeLearnAPI.git](https://github.com/christoperBar/WeLearnAPI/tree/development)
-- Frontend Web app : [https://github.com/alizaenazet/welearn-nextjs.git](https://github.com/alizaenazet/welearn-nextjs/tree/development)
+- Backend Api in `development` branch : [https://github.com/christoperBar/WeLearnAPI.git](https://github.com/christoperBar/WeLearnAPI/tree/development)
+- Frontend Web app in `development` branch  : [https://github.com/alizaenazet/welearn-nextjs.git](https://github.com/alizaenazet/welearn-nextjs/tree/development)
 
 ### Application Preview:
 | Picture | Picture | Video |

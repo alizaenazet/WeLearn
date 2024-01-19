@@ -1,5 +1,5 @@
 # WeLearn
-
+fyi: tim mengikuti ajang pada saat moment UAS, pengerjaan terus berjalan dapat dilihat pada menu `insight` repository
 ### Deskripsi team:
 - Gamacitra team 
 - Christoper Barnaby <b> Hacker </b>
